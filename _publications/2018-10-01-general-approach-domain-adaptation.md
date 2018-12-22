@@ -1,5 +1,5 @@
 ---
-title: "A General Approach to Domain Adaptation with Applications in Astronom3"
+title: "A General Approach to Domain Adaptation with Applications in Astronomy"
 collection: publications
 permalink: /publication/2018-10-01-general-approach-domain-adaptation
 excerpt: 'We propose a Maximum a Posteriori approach to estimate model complexity in supervised learning by assuming the existence of a previous learning task from which we can build a prior distribution.'

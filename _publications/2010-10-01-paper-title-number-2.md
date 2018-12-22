@@ -1,15 +1,28 @@
 ---
-title: "Paper Title Number 2"
+title: "Supervised learning to detect salt body"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2015-10-01-supervised-learning-to-detect-salt-body
+excerpt: 'In this paper we are presenting a novel workflow to detect salt body base on seismic attributes and supervised learning.'
+date: 2015-10-01
+venue: '2015 SEG’s International Exposition and 85th Annual Meeting in New Orleans, Louisiana1'
+paperurl: 'https://www.researchgate.net/profile/Ricardo_Vilalta/publication/279449732_Supervised_learning_to_detect_salt_body/links/55eb5af108ae21d099c5e834/Supervised-learning-to-detect-salt-body.pdf'
+citation: 'Pablo Guillen (University of Houston), German Larrazabal (Repsol USA), Gladys González (Repsol USA) Dainis Boumber (University of Houston), Ricardo Vilalta (University of Houston), “Supervised learning to detect salt body”, 2015 SEG’s International Exposition and 85th Annual Meeting in New Orleans, Louisiana'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+In this paper we are presenting a novel workflow to detect salt body base on seismic attributes and supervised learning. The machine learning algorithm Extremely Random Trees Ensemble is used to train and automatically identifying and classify salt regions. We have used a complex synthetic seismic dataset from phase I model of the SEG Advanced Modeling Corporation (SEAM), that represents deepwater regions of Gulf of Mexico. This dataset has very low frequency and there are sediments locations with similar amplitude value than salt body. After a first step of our proposal, where machine learning is applied directly to the seismic data, we obtained accuracy values of around 80%. A second (post-processing) step brings up accuracy to around 95%. 
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+DOI: https://doi.org/10.1190/segam2015-5931401.1
+
+
+Recommended citation (BibTex): 
+
+@incollection{guillen2015supervised,
+  title={Supervised learning to detect salt body},
+  author={Guillen, Pablo and Larrazabal*, German and Gonz{\'a}lez, Gladys and Boumber, Dainis and Vilalta, Ricardo},
+  booktitle={SEG Technical Program Expanded Abstracts 2015},
+  pages={1826--1829},
+  year={2015},
+  publisher={Society of Exploration Geophysicists}
+}
+

@@ -5,7 +5,7 @@ permalink: /publication/2018-05-10-experiments-with-convolutional-neural-network
 excerpt: 'We explore the use of Convolutional Neural Networks (CNNs) for multi-label Authorship Attribution (AA) problems and propose a CNN specifically designed for such tasks.'
 date: 2018-05-10
 venue: 'Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)'
-paperurl: 'http://www.lrec-conf.org/proceedings/lrec2018/pdf/535.pdf'
+citation: 'Dainis Boumber, Yifan Zhang and A. Mukherjee. "Experiments with convolutional neural networks for multi-label authorship attribution." Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018), Paris, France, 2018. European Language Resources Association (ELRA).'
 ---
 
 Abstract

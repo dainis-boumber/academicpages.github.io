@@ -5,7 +5,6 @@ permalink: /publication/2018-10-01-general-approach-domain-adaptation
 excerpt: 'We propose a Maximum a Posteriori approach to estimate model complexity in supervised learning by assuming the existence of a previous learning task from which we can build a prior distribution.'
 date: 2018-10-01
 venue: 'PASP'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Vilalta R., Dhar Gupta K., Boumber D., Meskhi M. M., “A General Approach to Domain Adaptation with Applications in Astronomy”, Publications of the Astronomical Society of the Pacific (PASP), 2018, IOP Science Press.'
 ---
 Excerpt

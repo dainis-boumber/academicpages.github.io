@@ -1,15 +1,12 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Welcome to my git pages"
+excerpt: "Welcome to my git pages"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Welcome to my github pages
-----
 
 Here you can find information about me and some of my current and future work; as I have more time, it will be updated with thoughts on various (mostly machine learning related) topics, and a number of other things such as tutorials, links to resources I find useful, my white papers, and more.
 

@@ -1,6 +1,6 @@
 ---
 title: "Preventing DDoS Attacks on Call Centers"
-excerpt: "Product that uses deep packet inspections of IP-based phone calls and applies machine learning to analyze metadata from calls"
+excerpt: "Product that uses deep packet inspections of IP-based phone calls and applies machine learning to analyze metadata from calls<br />"
 collection: portfolio
 ---
 

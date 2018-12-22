@@ -32,5 +32,5 @@ The solution will be adopted by 911 call centers in 2019
 
 Conclusions and Future Work
 ----
-In this undertaking we were a part of a big project involving multiple teams. The project span several years, and we found new and interesting challenges in adapting to the constantly changing environment and requirements as well as frequent changes in personnel involved. In the end, the project is heading for a successful finish. In the future, we may apply the knowledge gained from working on this problem to tasks involving machine learning, security, cloud, IoT and telecommunications. 
+In this undertaking we were a part of a big project involving multiple teams. The project span several years, and we found new and interesting challenges in adapting to the constantly changing environment and requirements as well as frequent changes in personnel involved. In the end, the project is heading for a successful finish. In the future, we may apply the knowledge gained from working on this problem to tasks involving machine learning, security, cloud, IoT and telecommunications.
 

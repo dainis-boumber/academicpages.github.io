@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome to my github page!
+Hi, welcome to my github pages!
 ----
 
 Here you can find information about me and some of my current and future work; as I have more time, it will be updated with thoughts on various (mostly machine learning related) topics, and a number of other things such as tutorials, links to resources I find useful, my white papers, and more.

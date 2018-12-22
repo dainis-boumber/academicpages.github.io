@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. Dainis Boumber"
 title_separator          : "-"
 name                     : &name "Dr. Dainis Boumber"
-description              : &description "Senior Data Scientist, Machine Learning & NLP Engineer & Researcher"
+description              : &description "Senior Data Scientist, Machine Learning & NLP Engineer, Researcher, CTO."
 url                      : https://dainis-boumber.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dainis-boumber.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Dainis Boumber"
   avatar           : "profile.png"
-  bio              : "Senior Data Scientist, Machine Learning & NLP Engineer & Researcher"
+  bio              : "Senior Data Scientist, Machine Learning & NLP Engineer, Researcher, CTO."
   location         : "Houston, TX"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=UDEH6r8AAAAJ&hl=en"

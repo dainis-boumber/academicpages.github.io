@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2014-10-01-fault-resilient-neural-networks
 excerpt: 'This paper presents a design and implementation of a physical neural network that is resilient to permanent hardware faults.'
 date: 2014-10-01
-venue: 'CASES 2014'
+venue: 'CASES'
 citation: 'W. Shi, Y. Wen, Z. Liu, X. Zhao, D. Boumber, R. Vilalta and L. Xu, “Scalable and Fault Resilient Physical Neural Networks on a Single Chip”, CASES 2014'
 ---
 

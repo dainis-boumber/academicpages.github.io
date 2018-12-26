@@ -68,7 +68,7 @@ og_image                 :  # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links: https://medium.com/@dainis.boumber
 
 
 # Analytics
@@ -86,9 +86,9 @@ author:
   location         : "Houston, TX"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=UDEH6r8AAAAJ&hl=en"
-  email            :
+  email            : "dainis.boumber@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Dainis_Boumber"
-  uri              : "https://medium.com/@dainis.boumber"
+  uri              : "http://www.ai-savvy.com/"
   bitbucket        :
   codepen          :
   dribbble         :

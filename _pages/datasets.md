@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-As part of our work, research, and publications, we designed and mined a number of datasets. I make available to the public datasets that had been peer reviewed, and novel but (in my opinion) high quality ones to be used in future work.
+As part of our work, research, and publications, we designed and mined a number of datasets. Here I make available to the public datasets that had been peer reviewed, and novel but (in my opinion) high quality ones to be used in future work.
 [Known as MLP-400 because of being based on 400 scientific publications by top authors by citations in machine learning, they are available here.](https://github.com/dainis-boumber/MLP-400-datasets)
 MLPA-400 is a multiclass, mutilable authorship attribution problem. See it's own README.md and Weka for details
 MLP-400AV is a new flexible dataset that uses the same data but for Authrship Verification. Because of it's extensive API, it can be adapted to almost any NLP task.

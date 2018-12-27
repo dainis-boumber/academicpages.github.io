@@ -1,8 +1,14 @@
 # main links links
 main:
   
+  - title: "CV"
+    url: /cv/
+    
   - title: "Publications"
     url: /publications/
+    
+  - title: "Datasets"
+    url: /datasets/
 
   - title: "Talks"
     url: /talks/    
@@ -10,6 +16,5 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "CV"
-    url: /cv/
+
     

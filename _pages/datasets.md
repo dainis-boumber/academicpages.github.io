@@ -50,6 +50,7 @@ If you find this dataset useful, please cite as follows:
 Dainis Boumber, Yifan Zhang and A. Mukherjee. "Experiments with convolutional neural networks for multi-label authorship attribution." Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018), Paris, France, 2018. European Language Resources Association (ELRA).
 
 [MLP-400AV](https://github.com/dainis-boumber/MLP-400-datasets/tree/master/MLP-400AV)
+======
 
 Machine Learning Papers 400 Authorship Verification (MPL-400AV) dataset contains 20 publications by each of the top-20 authors in ML, for the total of 400.
 The data is located in av-feature-generator project's ./ml_dataset directory. You can also obtain it as a tarball from

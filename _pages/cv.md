@@ -12,6 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D. in Computer Science, University of Houston, 2018
+  * Dissertation: “Domain Adaptation using Deep Adversarial Models”
+  * Committee: H. Ngueyen, W. Shi, A. Mukherjee (co-Chair), R. Vilalta (Chair)
 * B.Sc. in Computer Science, University of Houston, 2012				
 
 Employment History

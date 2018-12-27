@@ -15,7 +15,7 @@ MLPA-400 is a multiclass, mutilable authorship attribution problem. See it's own
 MLP-400AV is a new flexible dataset that uses the same data but for Authrship Verification. Because of it's extensive API, it can be adapted to almost any NLP task.
 Total size of the datasets is over 18 milllion characters for MLPA-400 and almost double that for MLPA-400AV.
 
-[https://github.com/dainis-boumber/MLP-400-datasets](URL to repo)
+[URL to repo](https://github.com/dainis-boumber/MLP-400-datasets)
 
 [MLPA-400](https://github.com/dainis-boumber/AA_CNN/wiki/MLPA-400-Dataset)
 ======
@@ -43,7 +43,7 @@ The number of authors ranged from 1 to 3 and the average was 1.2925. The text wa
 the rules of blind review instead of simply using author list while learning authorship. Formulas, table and figure captions were retained as they may contain valuable author specific style and topic information. 
 The dataset is available here:
 
-[https://github.com/dainis-boumber/AA_CNN/wiki/MLPA-400-Dataset](URL to repo)
+[URL to repo](https://github.com/dainis-boumber/AA_CNN/wiki/MLPA-400-Dataset)
 
 If you find this dataset useful, please cite as follows: 
 
@@ -102,4 +102,4 @@ The dataset is produced using MLPA-400's Labels.csv which contains the ground tr
 
 See [MLPA-400](https://github.com/dainis-boumber/AA_CNN/wiki/MLPA-400-Dataset) for more details.
 
-[https://github.com/dainis-boumber/MLP-400-datasets/tree/master/MLP-400AV](URL to repo)
+[URL to repo](https://github.com/dainis-boumber/MLP-400-datasets/tree/master/MLP-400AV)

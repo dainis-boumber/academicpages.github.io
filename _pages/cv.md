@@ -43,14 +43,14 @@ Technical and Management Experience
 
 Technical Skills
 ======
-* Expert level: Keras, Tensorflow, fastai, sklearn, Pandas, NLTK, spaCy, Python, PyTorch, C/C++. 
-* Comfortable with MongoDB, Docker, Caffe, Torch, R, SQL, AWS, others. Can wear many hats.
+* Expert level: PyTorch, Keras, Tensorflow, fastai, sklearn, Pandas, NLTK, spaCy, Python, C/C++. 
+* Comfortable with MongoDB, Docker, Caffe, Torch, R, SQL, Neo4j, AWS, others. Can wear many hats.
 
 Projects
 ======
-* Co-author of openSMILE for Android, popular software used in Acoustic Pattern Analysis. More than 10 downloads/day for 4 years. openSMILE - http://www.audeering.com/research/opensmile/
-* NG-911 DDOS Prevention - comprehensive software package that utilizes AI to prevent DDOS attacks originating from text, VoIP & other means. Solution currently being adopted by 911 Call Centers.
-* Github: dainis-boumber, https://github.com/dainis-boumber
+* [openSMILE](https://en.wikipedia.org/wiki/OpenSMILE) - Co-author of openSMILE for Android, popular software used in Acoustic Pattern Analysis. More than 10 downloads/day for 4 years. 
+* NG-911 DDOS Prevention: comprehensive software package that utilizes AI to prevent DDOS attacks originating from text, VoIP & other means. Solution currently being adopted by 911 Call Centers.
+* Github: [dainis-boumber](https://github.com/dainis-boumber)
 
 Publications
 ======
@@ -64,7 +64,6 @@ Publications
 
 Awards
 ======
-* GAANN Fellow
 * Academic Excellence Award
 * Dean’s List
 

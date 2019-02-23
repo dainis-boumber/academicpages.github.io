@@ -17,24 +17,26 @@ DOI: 10.1145/2656106.2656126
 
 Recommended citation (BibTex): 
 
-@inproceedings{DBLP:conf/cases/ShiWLZBVX14,
-  author    = {Weidong Shi and
-               Yuanfeng Wen and
-               Ziyi Liu and
-               Xi Zhao and
-               Dainis Boumber and
-               Ricardo Vilalta and
-               Lei Xu},
-  title     = {Fault resilient physical neural networks on a single chip},
-  booktitle = {2014 International Conference on Compilers, Architecture and Synthesis
-               for Embedded Systems, {CASES} 2014, Uttar Pradesh, India, October
-               12-17, 2014},
-  pages     = {24:1--24:10},
-  year      = {2014},
-  crossref  = {DBLP:conf/cases/2014},
-  url       = {https://doi.org/10.1145/2656106.2656126},
-  doi       = {10.1145/2656106.2656126},
-  timestamp = {Tue, 06 Nov 2018 11:07:42 +0100},
-  biburl    = {https://dblp.org/rec/bib/conf/cases/ShiWLZBVX14},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
-}
+```
+@inproceedings{DBLP:conf/cases/ShiWLZBVX14,  
+  author    = {Weidong Shi and  
+               Yuanfeng Wen and  
+               Ziyi Liu and  
+               Xi Zhao and  
+               Dainis Boumber and  
+               Ricardo Vilalta and  
+               Lei Xu},  
+  title     = {Fault resilient physical neural networks on a single chip},  
+  booktitle = {2014 International Conference on Compilers, Architecture and Synthesis  
+               for Embedded Systems, {CASES} 2014, Uttar Pradesh, India, October  
+               12-17, 2014},  
+  pages     = {24:1--24:10},  
+  year      = {2014},  
+  crossref  = {DBLP:conf/cases/2014},  
+  url       = {https://doi.org/10.1145/2656106.2656126},  
+  doi       = {10.1145/2656106.2656126},  
+  timestamp = {Tue, 06 Nov 2018 11:07:42 +0100},  
+  biburl    = {https://dblp.org/rec/bib/conf/cases/ShiWLZBVX14},  
+  bibsource = {dblp computer science bibliography, https://dblp.org}  
+}  
+```

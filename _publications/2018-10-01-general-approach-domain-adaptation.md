@@ -20,4 +20,10 @@ from generalization error to a likelihood estimation.
 
 [Download here](https://github.com/dainis-boumber/dainis-boumber.github.io/blob/master/files/pasp18.pdf)
 
-Recommended citation: Vilalta R., Dhar Gupta K., Boumber D., Meskhi M. M., “A General Approach to Domain Adaptation with Applications in Astronomy”, Publications of the Astronomical Society of the Pacific (PASP), 2018, IOP Science Press.
+**Recommended citation:**
+
+```
+Vilalta R., Dhar Gupta K., Boumber D., Meskhi M. M., “A General Approach to Domain Adaptation with  
+Applications in Astronomy”, Publications of the Astronomical Society of the Pacific (PASP), 2018,  
+IOP Science Press.  
+```

@@ -23,7 +23,7 @@ We explore the use of Convolutional Neural Networks (CNNs) for multi-label Autho
     year = {2018},  
     month = {May 7-12, 2018},  
     address = {Miyazaki, Japan},  
-    editor = {Nicoletta Calzolari (Conference chair) and Khalid Choukri and Christopher Cieri and Thierry Declerck and Sara     Goggi and Koiti Hasida and Hitoshi Isahara and Bente Maegaard and Joseph Mariani and Hélène Mazo and Asuncion Moreno and     Jan Odijk and Stelios Piperidis and Takenobu Tokunaga},  
+    editor = {Nicoletta Calzolari (Conference chair) and Khalid Choukri and Christopher Cieri and Thierry Declerck and Sara Goggi and Koiti Hasida and Hitoshi Isahara and Bente Maegaard and Joseph Mariani and Hélène Mazo and Asuncion Moreno and Jan Odijk and Stelios Piperidis and Takenobu Tokunaga},  
     publisher = {European Language Resources Association (ELRA)},  
     isbn = {979-10-95546-00-9},  
     language = {english}  

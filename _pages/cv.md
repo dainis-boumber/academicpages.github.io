@@ -21,30 +21,31 @@ Employment History
 * 2018-2019      Lead Data Scientist, SnapRapid, LLC.
 * 2017-2019      CTO and Co-Founder, AI Savvy, Inc.
 * 2017-2018      Data Scientist, AE Studio
-* 2015-2018      GAANN Fellow/Research Assistant, Pattern Analysis Laboratory, University of Houston
-* 2012-2015      Research Scientist/Project Manager,  I2C Laboratory, University of Houston
-* 2006-2012      Software/Full Stack Engineer, DomainSpa Inc.
+* 2015-2017      GAANN Fellow/Research Assistant, Pattern Analysis Laboratory, University of Houston
+* 201502017      Teaching Assistant, Machine Learning, AI, Advanced AI, University of Houston
+* 2012-2015      Machine Learning Research Scientist,  I2C Laboratory
+* 2006-2012      Full-Stack Software Engineer, DomainParking LLC.
 
 Internships
 ======
-* 2015-2016      HRL Laboratories (2 summers)
-* 2013                Air Force Research Laboratory
+* HRL Laboratories (2 summers) - key research areas: Cloud Computing, Data Engineering, AI, Security
+* Air Force Research Laboratory - key research areas: NLP, NLG, Social Networks
 
 Technical and Management Experience
 ======
-* SnapRapid: Researched, designed, developed and delivered solutions that use AI/Machine Learning to estimate potential influence of social media accounts featuring multi-media content. Used NLP to determine their relevance, skill set, and the role account author plays in the industry. Used in a recommendation engine.
-* AI-Savvy: Responsible for Solution Architecture, Data Science, Business Development, and delivery of product. Managed a technical team of 10, 2 PhDs and 3 MS Data Scientists core data science team. External interaction with CEOs and CTOs.
+* SnapRapid: Researched, designed, developed and delivered solutions that use NLP/Machine Learning to estimate influence of social media accounts featuring multi-media content. Used in a recommendation engine.
+* AI-Savvy: Responsibilities: Data Science, Solution Architecture, Business Development, delivery of product. Managed a technical team of 10, 2 PhDs and 3 MS Data Scientists. External interaction with CEOs and CTOs.
 * AE Studio: Researched and developed solutions for clients who needed Visual QA and Visual Dialogue. Used Image Recognition, NLP and Deep Learning to help achieve their goals. 
-* Pattern Analysis Laboratory: Dissertation in Domain Adaptation using Deep Adversarial Models, research in Machine Learning and NLP. Worked on applied and research projects for oil & gas and NASA.
-* I2C Laboratory: Worked with the director of Cyber Security Division of HSARPA. Managed team of 7 employees on a $1 million project that improved mobile device’s security by detecting is the person using it is not the owner based on previous patterns. Worked as a data scientist  to prevent DDoS attacks on 911 emergency telecommunication channels. Both projects were funded by the DHS. 
-* Software Engineer, DomainSpa Inc. Designed and implemented applications and tools for a domain registrar. Co-authored a meta-search engine.
-* HRL Laboratories: SEAndroid/SELinux kernel modification project for the GM. CloudCOP - Distributed Cloud Cryptography Project for the NSA. Responsible for network stack and parallelism. 
-* Air Force Research Laboratory (AFRL): Worked on development of chatbot software to be used for in-house tech support management.
+* Pattern Analysis Laboratory: Research in Machine Learning and NLP. Projects for oil & gas and NASA.
+University of Houston: Responsible for applied & experimental component of several graduate courses. Assisted in instruction of theoretical machine learning concepts. Mentored several students.
+* I2C Laboratory: Machine Learning Research Scientist  on an $5 million project to prevent DDoS attacks on 911 emergency channels. Lead a team of 7 employees on a $1 million project to provide machine learning based user verification. Reported to the Cyber Security Division of HSARPA.
+* DomainParking: Responsible for connecting front-end with the models delivered by the data analytics team.
 
 Technical Skills
 ======
-* Expert level: PyTorch, Keras, Tensorflow, fastai, sklearn, Pandas, NLTK, spaCy, Python, C/C++. 
-* Comfortable with MongoDB, Docker, Caffe, Torch, R, SQL, Neo4j, AWS, others. Can wear many hats.
+* Expert: Python, PyTorch, Keras, Tensorflow, fastai, sklearn, Pandas, NLTK, spaCy, Numpy, Unix, C/C++
+* Experienced: MongoDB, PostgreSQL, MySQL, Neo4j, Plotly/Matplotlib/Seaborn, Scipy, AWS, Docker, Java
+* Comfortable: R, Matlab, Caffe, Tableau, OpenCV, Spark, MLlib, 10+ programming languages
 
 Projects
 ======
@@ -54,6 +55,7 @@ Projects
 
 Publications
 ======
+* Dainis Boumber, Yifan Zhang, Marjan Hosseinia, Arjun Mukherjee, and Ricardo Vilalta, “Robust Authorship Verification with Transfer Learning”, Proceedings of the  20th International Computational Linguistics and Intelligent Text Processing Conference, CICLing 2019, La Rochelle, France, April 7-13, 2019.
 * Dainis Boumber, Yifan Zhang, Arjun Mukherjee, “Experiments with Convolutional Neural Networks for Multi-Label Authorship Attribution”, LREC 2018, 11th Conference on Language Resources and Evaluation
 * Vilalta R., Dhar Gupta K., Boumber D., Meskhi M. M., “A General Approach to Domain Adaptation with Applications in Astronomy”, Publications of the Astronomical Society of the Pacific (PASP), 2018, IOP Science Press.
 * Pablo Guillen (University of Houston), German Larrazabal (Repsol USA), Gladys González (Repsol USA) Dainis Boumber (University of Houston), Ricardo Vilalta (University of Houston), “Supervised learning to detect salt body”, 2015 SEG’s International Exposition and 85th Annual Meeting in New Orleans, Louisiana

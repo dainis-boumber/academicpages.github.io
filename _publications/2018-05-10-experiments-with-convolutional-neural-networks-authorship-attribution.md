@@ -15,15 +15,15 @@ We explore the use of Convolutional Neural Networks (CNNs) for multi-label Autho
 [Download paper here](https://github.com/dainis-boumber/dainis-boumber.github.io/blob/master/files/boumber-535.pdf)
 
 Recommended citation (BibTex):
-@InProceedings{BOUMBER18.535,
-  author = {Dainis Boumber and Yifan Zhang and Arjun Mukherjee},
-  title = "{Experiments with Convolutional Neural Networks for Multi-Label Authorship Attribution}",
-  booktitle = {Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)},
-  year = {2018},
-  month = {May 7-12, 2018},
-  address = {Miyazaki, Japan},
-  editor = {Nicoletta Calzolari (Conference chair) and Khalid Choukri and Christopher Cieri and Thierry Declerck and Sara Goggi and Koiti Hasida and Hitoshi Isahara and Bente Maegaard and Joseph Mariani and Hélène Mazo and Asuncion Moreno and Jan Odijk and Stelios Piperidis and Takenobu Tokunaga},
-  publisher = {European Language Resources Association (ELRA)},
-  isbn = {979-10-95546-00-9},
-  language = {english}
-  }
+@InProceedings{BOUMBER18.535,  
+  author = {Dainis Boumber and Yifan Zhang and Arjun Mukherjee},  
+  title = "{Experiments with Convolutional Neural Networks for Multi-Label Authorship Attribution}",  
+  booktitle = {Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)},  
+  year = {2018},  
+  month = {May 7-12, 2018},  
+  address = {Miyazaki, Japan},  
+  editor = {Nicoletta Calzolari (Conference chair) and Khalid Choukri and Christopher Cieri and Thierry Declerck and Sara Goggi and Koiti Hasida and Hitoshi Isahara and Bente Maegaard and Joseph Mariani and Hélène Mazo and Asuncion Moreno and Jan Odijk and Stelios Piperidis and Takenobu Tokunaga},  
+  publisher = {European Language Resources Association (ELRA)},  
+  isbn = {979-10-95546-00-9},  
+  language = {english}  
+  }  

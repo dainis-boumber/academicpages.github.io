@@ -16,12 +16,14 @@ DOI: https://doi.org/10.1190/segam2015-5931401.1
 
 Recommended citation (BibTex): 
 
-@incollection{guillen2015supervised,
-  title={Supervised learning to detect salt body},
-  author={Guillen, Pablo and Larrazabal*, German and Gonz{\'a}lez, Gladys and Boumber, Dainis and Vilalta, Ricardo},
-  booktitle={SEG Technical Program Expanded Abstracts 2015},
-  pages={1826--1829},
-  year={2015},
-  publisher={Society of Exploration Geophysicists}
-}
+```
+@incollection{guillen2015supervised,  
+  title={Supervised learning to detect salt body},  
+  author={Guillen, Pablo and Larrazabal*, German and Gonz{\'a}lez, Gladys and Boumber, Dainis and Vilalta, Ricardo},  
+  booktitle={SEG Technical Program Expanded Abstracts 2015},  
+  pages={1826--1829},  
+  year={2015},  
+  publisher={Society of Exploration Geophysicists}  
+}  
+```
 

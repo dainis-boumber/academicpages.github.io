@@ -19,8 +19,8 @@ We explore the use of Convolutional Neural Networks (CNNs) for multi-label Autho
 @InProceedings{BOUMBER18.535,  
   author = {Dainis Boumber and Yifan Zhang and Arjun Mukherjee},  
   title = {Experiments with Convolutional Neural Networks for Multi-Label Authorship Attribution},  
-  booktitle = {Proceedings of the Eleventh International Conference on Language Resources and Evaluation
-  (LREC 2018)},  
+  booktitle = {Proceedings of the Eleventh International Conference on 
+  Language Resources and Evaluation (LREC 2018)},  
   year = {2018},  
   month = {May 7-12, 2018},  
   address = {Miyazaki, Japan},  

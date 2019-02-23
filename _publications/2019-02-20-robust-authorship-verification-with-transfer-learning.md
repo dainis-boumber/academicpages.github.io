@@ -1,9 +1,9 @@
 ---
 title: "Robust Authorship Verification with Transfer Learning"
 collection: publications
-permalink: /publication/2019-04-10-robust-authorship-verification-with-transfer-learning
+permalink: /publication/2019-02-20-robust-authorship-verification-with-transfer-learning
 excerpt: 'We present an end-to-end model-building process that is universally applicable to a wide variety of corpora, and requires little to no modification or fine-tuning. It relies on transfer learning of a deep language model, using a generative adversarial network and a number of text augmentation techniques to improve the model's generalization ability. Experimental results surpass baseline and current state-of-the-art techniques.'
-date: 2019-04-10
+date: 2019-02-20
 venue: 'Proceedings of the  20th International Computational Linguistics and Intelligent Text Processing Conference (CICLing 2019), La Rochelle, France, April 7-13, 2019.'
 citation: 'Dainis Boumber, Yifan Zhang, Marjan Hosseinia, Arjun Mukherjee, and Ricardo Vilalta. "Robust Authorship Verification with Transfer Learning" Proceedings of the  20th International Computational Linguistics and Intelligent Text Processing Conference (CICLing 2019), La Rochelle, France, April 7-13, 2019.'
 ---

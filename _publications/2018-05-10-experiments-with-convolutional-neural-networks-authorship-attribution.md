@@ -15,7 +15,7 @@ We explore the use of Convolutional Neural Networks (CNNs) for multi-label Autho
 [Download paper here](https://github.com/dainis-boumber/dainis-boumber.github.io/blob/master/files/boumber-535.pdf)
 
 **Recommended citation (BibTex):**
-
+`  
 @InProceedings{BOUMBER18.535,  
     author = {Dainis Boumber and Yifan Zhang and Arjun Mukherjee},  
     title = "{Experiments with Convolutional Neural Networks for Multi-Label Authorship Attribution}",  
@@ -28,3 +28,4 @@ We explore the use of Convolutional Neural Networks (CNNs) for multi-label Autho
     isbn = {979-10-95546-00-9},  
     language = {english}  
   }  
+  `

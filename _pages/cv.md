@@ -55,7 +55,6 @@ Projects
 
 Publications
 ======
-* Dainis Boumber, Yifan Zhang, Marjan Hosseinia, Arjun Mukherjee, and Ricardo Vilalta, “Robust Authorship Verification with Transfer Learning”, Proceedings of the  20th International Computational Linguistics and Intelligent Text Processing Conference, CICLing 2019, La Rochelle, France, April 7-13, 2019.
 * Dainis Boumber, Yifan Zhang, Arjun Mukherjee, “Experiments with Convolutional Neural Networks for Multi-Label Authorship Attribution”, LREC 2018, 11th Conference on Language Resources and Evaluation
 * Vilalta R., Dhar Gupta K., Boumber D., Meskhi M. M., “A General Approach to Domain Adaptation with Applications in Astronomy”, Publications of the Astronomical Society of the Pacific (PASP), 2018, IOP Science Press.
 * Pablo Guillen (University of Houston), German Larrazabal (Repsol USA), Gladys González (Repsol USA) Dainis Boumber (University of Houston), Ricardo Vilalta (University of Houston), “Supervised learning to detect salt body”, 2015 SEG’s International Exposition and 85th Annual Meeting in New Orleans, Louisiana

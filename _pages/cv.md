@@ -18,6 +18,7 @@ Education
 
 Employment History
 ======
+* 2019-current   Senior Scientist, NLP Research, Aon IPS
 * 2018-2019      Lead Data Scientist, SnapRapid, LLC.
 * 2017-2019      CTO and Co-Founder, AI Savvy, Inc.
 * 2017-2018      Data Scientist, AE Studio

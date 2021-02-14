@@ -54,13 +54,33 @@ Aon
 * Proposed solutions and present results to audiences varying from CEO and CTOs to large audiences
 * Transformers (BERT, GPT), PyTorch, Tensorflow, AWS, GCP, Python, Pandas, Spacy, NLTK, Flair, FastAI
 
-* SnapRapid: Researched, designed, developed and delivered solutions that use NLP/Machine Learning to estimate influence of social media accounts featuring multi-media content. Used in a recommendation engine.
-* AI-Savvy: Responsibilities: Data Science, Solution Architecture, Business Development, delivery of product. Managed a technical team of 10, 2 PhDs and 3 MS Data Scientists. External interaction with CEOs and CTOs.
-* AE Studio: Researched and developed solutions for clients who needed Visual QA and Visual Dialogue. Used Image Recognition, NLP and Deep Learning to help achieve their goals. 
-* Pattern Analysis Laboratory: Research in Machine Learning and NLP. Projects for oil & gas and NASA.
-University of Houston: Responsible for applied & experimental component of several graduate courses. Assisted in instruction of theoretical machine learning concepts. Mentored several students.
-* I2C Laboratory: Machine Learning Research Scientist  on an $5 million project to prevent DDoS attacks on 911 emergency channels. Lead a team of 7 employees on a $1 million project to provide machine learning based user verification. Reported to the Cyber Security Division of HSARPA.
-* DomainParking: Responsible for connecting front-end with the models delivered by the data analytics team.
+SnapRapid
+---------
+Researched, designed, developed and delivered solutions that use NLP/Machine Learning to estimate influence of social media accounts featuring multi-media content. Used in a recommendation engine.
+
+AI-Savvy
+--------
+Responsibilities: Data Science, Solution Architecture, Business Development, delivery of product. Managed a technical team of 10, 2 PhDs and 3 MS Data Scientists. External interaction with CEOs and CTOs.
+
+AE Studio
+---------
+Researched and developed solutions for clients who needed Visual QA and Visual Dialogue. Used Image Recognition, NLP and Deep Learning to help achieve their goals.
+
+Pattern Analysis Laboratory
+---------------------------
+Research in Machine Learning and NLP. Projects for oil & gas and NASA.
+
+University of Houston
+---------------------
+Responsible for applied & experimental component of several graduate courses. Assisted in instruction of theoretical machine learning concepts. Mentored several students.
+
+I2C Laboratory
+---------------
+Machine Learning Research Scientist  on an $5 million project to prevent DDoS attacks on 911 emergency channels. Lead a team of 7 employees on a $1 million project to provide machine learning based user verification. Reported to the Cyber Security Division of HSARPA.
+
+DomainParking
+-------------
+Responsible for connecting front-end with the models delivered by the data analytics team.
 
 Technical Skills
 ======

@@ -10,11 +10,11 @@ redirect_from:
 
 ---
 
-Here you can find information about me and some of my current and future work; as I have more time, it will be updated with thoughts on various (mostly machine learning related) topics, and a number of other things such as tutorials, links to resources I find useful, my white papers, and more.
+NEWS: Looking for new challenges! Potential recruiters and employers are welcome to drop a line to dainis.boumber@gmail.com
 
 A bit about myself
 ----
 
-I am a senior data scientist and a CTO with 11 years of experience in Data Science and Software Engineering who loves to work on exciting projects with awesome people. I have expert-level skills in Tensorflow, scikit-learn, Python, fastai, Keras and other tools. I'm also an active researcher in Machine Learning and NLP with work in deep learning and authorship verification published and under review in top-5 conferences. I attended the University of Texas in Austin and the University of Houston. I have a PhD in Computer Science with a focus on AI and a dissertation on "Domain Adaptation using Deep Adversarial Models". 
+I am a senior NLP scientist at Aon IPS with 13 years of experience in Data Science and Software Engineering, who loves to work on exciting projects with awesome people. In the past, I worked for a number of start-ups as a Data Scientist and a Software Engineer, and was a CTO of a boutique ML company. My research is in Machine Learning and NLP with work in deep learning and authorship verification published and under review in top-5 conferences. I attended the University of Texas in Austin and the University of Houstonwith a PhD in Computer Science with a focus on AI and a dissertation on "Domain Adaptation using Deep Adversarial Models". 
 
 Outside of professional life, my main passion is travel, which I think can be attributed to learning something new each time I place myself in new environments and cultures. My other hobbies include biking, surfing, reading, spending time with friends and making new ones.

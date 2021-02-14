@@ -23,7 +23,7 @@ Employment History
 * 2017-2019      CTO and Co-Founder, AI Savvy, Inc.
 * 2017-2018      Data Scientist, AE Studio
 * 2015-2017      GAANN Fellow/Research Assistant, Pattern Analysis Laboratory, University of Houston
-* 201502017      Teaching Assistant, Machine Learning, AI, Advanced AI, University of Houston
+* 2015-2017      Teaching Assistant, Machine Learning, AI, Advanced AI, University of Houston
 * 2012-2015      Machine Learning Research Scientist,  I2C Laboratory
 * 2006-2012      Full-Stack Software Engineer, DomainParking LLC.
 
@@ -34,6 +34,26 @@ Internships
 
 Technical and Management Experience
 ======
+
+Aon
+---
+* Leadership, researcher, and individual contributor role in an NLP Research Lab
+* DMajor projects elivered to production:
+1) Initiated and contributed to the development of a sentence-transformers library
+2) Contributed to the training of domain-specific BERT-like embeddings for document clustering
+* Individual contributions or work with a small engineering team
+1) Leading contributor to an in-house document classifier library
+2) NER-based classifier and a toolkit to train on new labels and entities given an arbitrary grammar
+* Research
+1) Introduced, evangelized, and lead the training of deep language models and embeddings 
+2) Influenced numerous projects, providing a business contribution across the board
+3) Trained in custom LSTMs and Transformers on domain-specific Big Data (# documents > BERT)
+4) Designed and delivered several loss types to benefit from structured and image data available
+5) Lead research in self-constructing knowledge graphs with deep multi-modal embeddings
+* Provided business leadership with ideas and advice based on the latest developments
+* Proposed solutions and present results to audiences varying from CEO and CTOs to large audiences
+* Transformers (BERT, GPT), PyTorch, Tensorflow, AWS, GCP, Python, Pandas, Spacy, NLTK, Flair, FastAI
+
 * SnapRapid: Researched, designed, developed and delivered solutions that use NLP/Machine Learning to estimate influence of social media accounts featuring multi-media content. Used in a recommendation engine.
 * AI-Savvy: Responsibilities: Data Science, Solution Architecture, Business Development, delivery of product. Managed a technical team of 10, 2 PhDs and 3 MS Data Scientists. External interaction with CEOs and CTOs.
 * AE Studio: Researched and developed solutions for clients who needed Visual QA and Visual Dialogue. Used Image Recognition, NLP and Deep Learning to help achieve their goals. 

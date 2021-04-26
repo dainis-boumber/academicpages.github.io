@@ -232,8 +232,8 @@ window.addEventListener('load', function() {
 
 		if (!$voices.children.length)
 			return;
-
-		var current = ($('#page-option #speech-voice [value="' + localStorage.getItem('speech-voice') + '"]') || $voices.children[0]).getAttribute('value');
+		var voice_ix = $voices.children.length - 1;
+		var current = ($('#page-option #speech-voice [value="' + localStorage.getItem('speech-voice') + '"]') || $voices.children[voice_ix]).getAttribute('value');
 		$voices.setAttribute('default', current);
 		$voices.classList.add('col' + $voices.children.length);
 		setOption('speech-voice', current);
